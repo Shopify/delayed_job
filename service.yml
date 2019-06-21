@@ -1,0 +1,4 @@
+# https://services.myshopify.io/services/delayed_job
+owners:
+- Shopify/nobody
+classification: tier4
