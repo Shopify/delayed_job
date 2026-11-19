@@ -1,3 +1,5 @@
+> **This repository is no longer maintained.** It has been archived by Shopify and receives no updates or security fixes.
+
 h1. Delayed::Job
 
 Delated_job (or DJ) encapsulates the common pattern of asynchronously executing longer tasks in the background. 
